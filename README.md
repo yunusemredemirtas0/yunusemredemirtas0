@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-hi, I'm @yunused61.<br>I am interested in technology and software.<br>I'm currently learning about new front-end technologies and back-end technologies.
+hi, I'm Yunus Emre .<br>I am interested in technology and software.<br>I'm currently learning about new front-end technologies and back-end technologies.
 
 
 ## 🌐 Socials:
